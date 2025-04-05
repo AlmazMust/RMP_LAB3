@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="5"
+    android:rowCount="4">
+
+    <Button
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+        android:text="Кнопка 1" />
+
+    <Button
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+        android:text="Кнопка 2" />
+
+    <Button
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+        android:text="Кнопка 3" />
+
+    <Button
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+        android:text="Кнопка 4" />
+
+</GridLayout>

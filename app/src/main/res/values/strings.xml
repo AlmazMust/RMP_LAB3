@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello!</string>
+    <string name="_1">Кнопка 1</string>
+    <string name="_2">Кнопка 2</string>
+    <string name="_3">Кнопка 3</string>
+    <string name="_4">Кнопка 4</string>
+    <string name="EDitTextM">Введите сообщение</string>
+    <string name="ButtonM">Отправить</string>
+    <string name="Cn">Кнопка отправки сообщения</string>
+    <string name="pole">Поле для ввода сообщения</string>
+    <string name="l">Введите сообщение</string>
+    <string name="o">Отправить</string>
+</resources>
